@@ -61,8 +61,7 @@ Tipos de Comprobantes:
 * Factura B: incluye sección de "Régimen de Transparencia Fiscal al Consumidor" con IVA contenido.
 * Otros: adaptado para todos los tipos de comprobantes de la localización argentina.
 
-Este módulo es exclusivo para Odoo 17.0 Enterprise y ha sido probado con la localización
-argentina de a2systems: https://github.com/a2systems/odoo-argentina
+Este módulo es exclusivo para Odoo 17.0 Enterprise con localización de ADHOC
 
 IMPORTANTE: No es compatible con la versión Community de Odoo.
 
