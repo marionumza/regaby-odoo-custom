@@ -49,7 +49,7 @@ Incluye los datos fiscales del cliente en el ticket.
 
 ## Compatibilidad
 - Odoo 17.0 Enterprise
-- Localización Argentina (probado con la localización de a2systems)
+- Localización Argentina ADHOC
 
 ## Ejemplo de Ticket
 
